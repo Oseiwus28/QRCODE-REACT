@@ -1,10 +1,11 @@
 import Scan from "./app";
+import {BrowserRouter,Routes,Route} from "react-router-dom"
 
 function Page() {
     return(
-        <BrowsweRouter>
+        <BrowserRouter>
         <Scan/>
-        </BrowsweRouter>
+        </BrowserRouter>
     )
 }
 

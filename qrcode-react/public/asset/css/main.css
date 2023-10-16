@@ -20,7 +20,7 @@ body{
 #text1{
     margin-top: 20px;
     display: block;
-    align-items: center;
+    text-align: center;
     margin-left: 30px;
     margin-right: 30px;
     font-weight: bolder;

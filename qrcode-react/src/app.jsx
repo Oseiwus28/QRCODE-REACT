@@ -5,7 +5,7 @@
                 <div id="main-layout">
                   <div id="content">
                     <form id="text-form">
-                      <img id="image" src="/asset/css/main.css" alt="Main CSS" />
+                      <img id="image" src="/asset/img/QR CODE.png" alt="Main CSS" />
                       <label htmlFor="text1">
                         <b>Improve your front-end skills by building projects</b>
                       </label>
